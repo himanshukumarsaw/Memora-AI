@@ -797,3 +797,41 @@ Instead of rememberin
 2026-07-21 15:14:07 [info]: [ReminderJob] Starting daily expiry check…
 2026-07-21 15:14:07 [info]: [ReminderJob] Found 0 documents expiring within 30 days
 2026-07-21 15:14:07 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-21 16:57:43 [error]: MongoPoolClosedError: Attempted to check out a connection from closed connection pool
+    at ConnectionPool.processWaitQueue (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\node_modules\mongodb\src\cmap\connection_pool.ts:753:37)
+    at ConnectionPool.close (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\node_modules\mongodb\src\cmap\connection_pool.ts:515:10)
+    at Server.close (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\node_modules\mongodb\src\sdam\server.ts:266:15)
+    at closeServer (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\node_modules\mongodb\src\sdam\topology.ts:806:10)
+    at Topology.close (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\node_modules\mongodb\src\sdam\topology.ts:507:7)
+    at MongoClient._close (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\node_modules\mongodb\src\mongo_client.ts:838:14)
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at MongoClient.close (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\node_modules\mongodb\src\mongo_client.ts:765:7)
+    at NativeConnection.doClose (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\drivers\node-mongodb-native\connection.js:208:3)
+    at NativeConnection._close (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\connection.js:1264:7)
+    at async Promise.all (index 0)
+    at Mongoose.disconnect (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\mongoose.js:471:3)
+    at Object.<anonymous> (D:\kagazaat\Memora-AI\backend\__tests__\opportunity.test.js:29:3)
+2026-07-21 16:57:44 [info]: New user registered: jesttest@example.com
+2026-07-21 16:57:44 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-21 16:57:45 [info]: User logged in: jesttest@example.com
+2026-07-21 16:57:45 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-21 16:57:47 [info]: New user registered: timeline@example.com
+2026-07-21 16:57:47 [info]: [Digital Life History] User created custom milestone: Class 10 Result (2018)
+2026-07-21 16:57:49 [info]: New user registered: doc@example.com
+2026-07-21 16:57:49 [info]: [Emergency Profile] Updated profile for user 6a5f57b59dfb7d46d176557a
+2026-07-21 16:57:49 [info]: [Emergency QR Scan] First responder scanned QR token: abeb4486-467f-42f6-b4dc-60478f2d0dc2
+2026-07-21 16:57:51 [info]: New user registered: graph@example.com
+2026-07-21 16:57:51 [error]: Activity log failed: Operation interrupted because client was closed
+2026-07-21 16:58:01 [info]: New user registered: scholar@example.com
+2026-07-21 16:58:01 [info]: [Opportunity Engine] Seeded initial opportunity catalog
+2026-07-21 16:58:01 [error]: Activity log failed: Operation interrupted because client was closed
+2026-07-21 16:58:02 [info]: New user registered: doc@example.com
+2026-07-21 16:58:02 [info]: [Emergency Profile] Updated profile for user 6a5f57c2699edc1bdfe5de38
+2026-07-21 16:58:02 [info]: [Emergency QR Scan] First responder scanned QR token: a6a43836-6617-44f5-a7c1-e8ac8e39dd14
+2026-07-21 16:58:03 [info]: New user registered: jesttest@example.com
+2026-07-21 16:58:03 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-21 16:58:04 [info]: User logged in: jesttest@example.com
+2026-07-21 16:58:04 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-21 16:58:05 [info]: New user registered: timeline@example.com
+2026-07-21 16:58:05 [info]: [Digital Life History] User created custom milestone: Class 10 Result (2018)
+2026-07-21 16:58:06 [info]: New user registered: graph@example.com
