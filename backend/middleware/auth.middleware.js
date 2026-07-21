@@ -1,5 +1,7 @@
-const jwt = require('jsonwebtoken');
+const jwt  = require('jsonwebtoken');
 const User = require('../models/User.model');
+
+const JWT_SECRET = process.env.JWT_SECRET || 'memora_secret_key_dev';
 
 const authMiddleware = async (req, res, next) => {
   try {
@@ -9,7 +11,7 @@ const authMiddleware = async (req, res, next) => {
     }
 
     const token = authHeader.split(' ')[1];
-    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'memora_secret');
+    const decoded = jwt.verify(token, JWT_SECRET);
 
     const user = await User.findById(decoded.userId);
     if (!user) {

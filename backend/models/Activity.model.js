@@ -4,7 +4,7 @@ const activitySchema = new mongoose.Schema({
   userId: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true, index: true },
   action: {
     type: String,
-    enum: ['upload', 'delete', 'download', 'share', 'login', 'logout', 'chat', 'resume', 'autofill'],
+    enum: ['upload', 'delete', 'download', 'share', 'login', 'logout', 'chat', 'resume', 'autofill', 'profile'],
     required: true,
   },
   target: { type: String, default: '' },

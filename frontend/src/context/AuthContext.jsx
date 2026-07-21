@@ -10,12 +10,19 @@ export const AuthProvider = ({ children }) => {
   useEffect(() => {
     const token = localStorage.getItem('memora_token');
     const savedUser = localStorage.getItem('memora_user');
-    if (token && savedUser) {
-      setUser(JSON.parse(savedUser));
-      // Verify token is still valid
+    if (token && savedUser && savedUser !== 'undefined') {
+      try {
+        setUser(JSON.parse(savedUser));
+      } catch {
+        localStorage.removeItem('memora_user');
+      }
+
       api.get('/auth/me').then(res => {
-        setUser(res.data.user);
-        localStorage.setItem('memora_user', JSON.stringify(res.data.user));
+        const u = res.data?.data?.user || res.data?.user;
+        if (u) {
+          setUser(u);
+          localStorage.setItem('memora_user', JSON.stringify(u));
+        }
       }).catch(() => {
         localStorage.removeItem('memora_token');
         localStorage.removeItem('memora_user');
@@ -28,20 +35,22 @@ export const AuthProvider = ({ children }) => {
 
   const login = async (email, password) => {
     const res = await api.post('/auth/login', { email, password });
-    const { token, user } = res.data;
+    const token = res.data?.data?.accessToken || res.data?.token;
+    const userData = res.data?.data?.user || res.data?.user;
     localStorage.setItem('memora_token', token);
-    localStorage.setItem('memora_user', JSON.stringify(user));
-    setUser(user);
-    return user;
+    localStorage.setItem('memora_user', JSON.stringify(userData));
+    setUser(userData);
+    return userData;
   };
 
   const register = async (name, email, password) => {
     const res = await api.post('/auth/register', { name, email, password });
-    const { token, user } = res.data;
+    const token = res.data?.data?.accessToken || res.data?.token;
+    const userData = res.data?.data?.user || res.data?.user;
     localStorage.setItem('memora_token', token);
-    localStorage.setItem('memora_user', JSON.stringify(user));
-    setUser(user);
-    return user;
+    localStorage.setItem('memora_user', JSON.stringify(userData));
+    setUser(userData);
+    return userData;
   };
 
   const logout = () => {

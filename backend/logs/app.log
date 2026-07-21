@@ -1,0 +1,799 @@
+2026-07-20 16:24:52 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:24:52 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:24:52 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:24:52 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:24:52 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:25:04 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:25:04 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:25:04 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:25:04 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:25:04 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:25:09 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:25:09 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:25:09 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:57:12 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:57:12 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:57:12 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:57:12 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:57:12 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:57:17 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:57:18 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:57:18 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:57:40 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:57:40 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:57:40 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:57:40 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:57:40 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:57:45 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:57:45 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:57:45 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:57:54 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:57:54 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:57:54 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:57:54 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:57:54 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:57:59 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:57:59 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:57:59 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:58:32 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:58:32 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:58:32 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:58:32 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:58:32 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:58:37 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:58:37 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:58:37 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:58:47 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:58:47 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:58:47 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:58:47 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:58:47 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:58:52 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:58:52 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:58:52 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:59:10 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:59:10 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:59:10 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:59:10 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:59:10 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:59:15 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:59:15 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:59:15 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:59:18 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:59:18 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:59:18 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:59:18 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:59:18 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:59:23 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:59:23 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:59:23 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:59:35 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:59:35 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:59:35 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:59:35 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:59:35 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:59:40 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:59:40 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:59:40 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 16:59:52 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 16:59:52 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 16:59:52 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 16:59:52 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 16:59:52 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 16:59:57 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 16:59:57 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 16:59:57 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:00:11 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:00:11 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:00:11 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:00:11 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:00:11 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:00:16 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:00:16 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:00:16 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:00:28 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:00:28 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:00:28 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:00:28 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:00:28 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:00:33 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:00:33 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:00:33 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:00:35 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:00:35 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:00:35 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:00:35 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:00:35 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:00:40 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:00:40 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:00:40 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:00:54 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:00:54 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:00:54 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:00:54 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:00:54 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:00:59 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:00:59 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:00:59 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:01:04 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:01:04 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:01:04 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:01:04 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:01:04 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:01:09 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:01:09 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:01:09 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:01:12 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:01:12 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:01:12 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:01:12 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:01:12 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:01:17 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:01:17 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:01:17 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:01:47 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:01:47 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:01:47 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:01:47 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:01:47 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:01:52 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:01:52 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:01:52 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:01:55 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:01:55 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:01:55 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:01:55 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:01:55 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:02:00 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:02:00 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:02:00 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:02:11 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:02:11 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:02:11 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:02:11 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:02:11 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:02:16 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:02:16 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:02:16 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:02:28 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:02:28 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:02:28 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:02:28 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:02:28 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:02:33 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:02:33 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:02:33 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:03:56 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:03:56 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:03:56 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:03:56 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:03:56 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:04:00 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:04:00 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:04:00 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:04:00 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:04:00 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:04:02 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:04:02 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:04:02 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:04:02 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:04:02 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:04:06 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:04:06 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:04:06 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:04:06 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:04:06 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:04:08 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:04:08 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:04:08 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:04:08 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:04:08 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:04:14 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:04:14 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:04:14 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:04:14 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:04:14 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:04:19 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:04:19 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:04:19 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:04:22 [info]: New user registered: v1test@example.com
+2026-07-20 17:08:33 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:08:33 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:08:33 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:08:33 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:08:33 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:08:37 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:08:37 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:08:37 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:08:37 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:08:37 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:08:39 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:08:39 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:08:39 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:08:39 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:08:39 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:08:42 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:08:42 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:08:42 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:08:42 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:08:42 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:08:47 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:08:47 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:08:47 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:09:15 [info]: New user registered: jesttest@example.com
+2026-07-20 17:09:15 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:09:15 [info]: User logged in: jesttest@example.com
+2026-07-20 17:09:15 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:09:23 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:09:23 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:09:23 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:09:23 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:09:23 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:09:26 [info]: New user registered: jesttest@example.com
+2026-07-20 17:09:26 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:09:27 [info]: User logged in: jesttest@example.com
+2026-07-20 17:09:27 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:09:28 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:09:28 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:09:28 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:09:31 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:09:31 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:09:31 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:09:31 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:09:31 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:09:35 [info]: New user registered: jesttest@example.com
+2026-07-20 17:09:35 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:09:35 [info]: User logged in: jesttest@example.com
+2026-07-20 17:09:35 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:09:36 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:09:36 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:09:36 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:09:46 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:09:46 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:09:46 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:09:46 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:09:46 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:09:51 [info]: New user registered: jesttest@example.com
+2026-07-20 17:09:51 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:09:51 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:09:51 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:09:51 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:09:51 [info]: User logged in: jesttest@example.com
+2026-07-20 17:09:51 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:09:59 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:09:59 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:09:59 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:09:59 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:09:59 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:10:03 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:10:03 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:10:03 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:10:03 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:10:03 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:10:06 [info]: New user registered: jesttest@example.com
+2026-07-20 17:10:06 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:10:06 [info]: User logged in: jesttest@example.com
+2026-07-20 17:10:07 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:10:08 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:10:08 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:10:08 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:10:13 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:10:13 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:10:13 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:10:13 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:10:13 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:10:17 [info]: New user registered: jesttest@example.com
+2026-07-20 17:10:17 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:10:17 [info]: User logged in: jesttest@example.com
+2026-07-20 17:10:17 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:10:18 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:10:18 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:10:18 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:13:56 [warn]: [APP_ERROR] POST /api/auth/login — 401 Invalid email or password.
+2026-07-20 17:14:25 [info]: New user registered: dfbvv@dkjdfgmail.com
+2026-07-20 17:14:27 [warn]: [APP_ERROR] POST /api/auth/register — 409 Email already registered.
+2026-07-20 17:14:46 [info]: New user registered: vvdkjdvf@gmail.com
+2026-07-20 17:14:56 [warn]: [APP_ERROR] POST /api/auth/register — 409 Email already registered.
+2026-07-20 17:34:14 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:34:14 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:34:14 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:34:14 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:34:14 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:34:19 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:34:19 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:34:19 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:34:19 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:34:19 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:34:22 [info]: New user registered: jesttest@example.com
+2026-07-20 17:34:22 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:34:23 [info]: User logged in: jesttest@example.com
+2026-07-20 17:34:23 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:34:24 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:34:24 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:34:24 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:34:47 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:34:47 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:34:47 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:34:47 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:34:47 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:34:52 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:34:52 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:34:52 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:34:55 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:34:55 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:34:55 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:34:55 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:34:55 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:35:00 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:35:00 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:35:00 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:35:04 [info]: New user registered: jesttest@example.com
+2026-07-20 17:35:04 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:35:04 [info]: User logged in: jesttest@example.com
+2026-07-20 17:35:04 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:37:16 [info]: New user registered: audituser@example.com
+2026-07-20 17:37:21 [info]: New user registered: jesttest@example.com
+2026-07-20 17:37:21 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:37:22 [info]: User logged in: jesttest@example.com
+2026-07-20 17:37:22 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:50:07 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:50:07 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:50:07 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:50:07 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:50:07 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:50:12 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:50:12 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:50:12 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:50:17 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:50:17 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:50:17 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:50:17 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:50:17 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:50:22 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:50:22 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:50:22 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:50:22 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:50:22 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:50:26 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:50:26 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:50:26 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:50:26 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:50:26 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:50:31 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:50:31 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:50:31 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:50:35 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:50:35 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:50:35 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:50:35 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:50:35 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:50:40 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:50:40 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:50:40 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:51:18 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:51:18 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:51:18 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:51:18 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:51:18 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:51:23 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:51:23 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:51:23 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:51:24 [info]: New user registered: doc@example.com
+2026-07-20 17:51:24 [warn]: [APP_ERROR] GET /api/v1/emergency/public/undefined — 404 Emergency medical record not found or access disabled.
+2026-07-20 17:51:25 [info]: New user registered: jesttest@example.com
+2026-07-20 17:51:25 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:51:25 [info]: User logged in: jesttest@example.com
+2026-07-20 17:51:25 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:51:40 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:51:40 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:51:40 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:51:40 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:51:40 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:51:44 [info]: New user registered: doc@example.com
+2026-07-20 17:51:44 [info]: [Emergency Profile] Updated profile for user 6a5e12d89bcbfb1f29ebd4aa
+2026-07-20 17:51:44 [error]: Activity log failed: Activity validation failed: action: `profile` is not a valid enum value for path `action`.
+2026-07-20 17:51:44 [info]: [Emergency QR Scan] First responder scanned QR token: 678c46e5-ab25-4f50-95bf-24e5f83fd100
+2026-07-20 17:51:45 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:51:45 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:51:45 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:51:45 [info]: New user registered: jesttest@example.com
+2026-07-20 17:51:45 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:51:46 [info]: User logged in: jesttest@example.com
+2026-07-20 17:51:46 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:51:57 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:51:57 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:51:57 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:51:57 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:51:57 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:52:02 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:52:02 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:52:02 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:52:02 [info]: New user registered: doc@example.com
+2026-07-20 17:52:02 [info]: [Emergency Profile] Updated profile for user 6a5e12ea65af8f321bd55243
+2026-07-20 17:52:02 [info]: [Emergency QR Scan] First responder scanned QR token: c3b42174-3e6c-42d6-b3b3-fe8f73aa6a4c
+2026-07-20 17:52:03 [info]: New user registered: jesttest@example.com
+2026-07-20 17:52:03 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:52:03 [info]: User logged in: jesttest@example.com
+2026-07-20 17:52:04 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:52:37 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:52:37 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:52:37 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:52:37 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:52:37 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:52:42 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:52:42 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:52:42 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:52:42 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:52:42 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:52:48 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:52:48 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:52:48 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:52:48 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:52:48 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:52:52 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:52:52 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:52:52 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:52:52 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:52:52 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:52:57 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:52:57 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:52:57 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:52:57 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:52:57 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:53:02 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:53:02 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:53:02 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:53:28 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:53:28 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:53:28 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:53:28 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:53:28 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:53:33 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:53:33 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:53:33 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:53:33 [info]: New user registered: timeline@example.com
+2026-07-20 17:53:33 [info]: [Digital Life History] User created custom milestone: Class 10 Result (2018)
+2026-07-20 17:53:33 [error]: MissingSchemaError: Schema hasn't been registered for model "Document".
+Use mongoose.model(name, schema)
+    at NativeConnection.model (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\connection.js:1497:13)
+    at _getModelFromConn (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:579:15)
+    at addModelNamesToMap (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:507:17)
+    at getModelsMapForPopulate (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:208:7)
+    at _populatePath (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\model.js:4492:21)
+    at model.populate (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\model.js:4459:21)
+    at model.Query._find (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\query.js:2452:23)
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at model.Query.exec (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\query.js:4627:63)
+    at D:\kagazaat\Memora-AI\backend\controllers\timeline.controller.js:22:22
+2026-07-20 17:53:33 [error]: MissingSchemaError: Schema hasn't been registered for model "Document".
+Use mongoose.model(name, schema)
+    at NativeConnection.model (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\connection.js:1497:13)
+    at _getModelFromConn (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:579:15)
+    at addModelNamesToMap (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:507:17)
+    at getModelsMapForPopulate (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:208:7)
+    at _populatePath (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\model.js:4492:21)
+    at model.populate (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\model.js:4459:21)
+    at model.Query._find (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\query.js:2452:23)
+    at processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at model.Query.exec (D:\kagazaat\Memora-AI\backend\node_modules\mongoose\lib\query.js:4627:63)
+    at D:\kagazaat\Memora-AI\backend\controllers\timeline.controller.js:22:22
+2026-07-20 17:53:34 [info]: New user registered: doc@example.com
+2026-07-20 17:53:34 [info]: [Emergency Profile] Updated profile for user 6a5e1346c960fb7998a33f85
+2026-07-20 17:53:34 [info]: [Emergency QR Scan] First responder scanned QR token: 22bd27e1-c223-4e38-96e2-55cc2913ace9
+2026-07-20 17:53:35 [info]: New user registered: jesttest@example.com
+2026-07-20 17:53:35 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:53:36 [info]: User logged in: jesttest@example.com
+2026-07-20 17:53:36 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:53:41 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:53:41 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:53:41 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:53:41 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:53:41 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:53:46 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:53:46 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:53:46 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:53:53 [info]: New user registered: timeline@example.com
+2026-07-20 17:53:53 [info]: [Digital Life History] User created custom milestone: Class 10 Result (2018)
+2026-07-20 17:53:54 [info]: New user registered: jesttest@example.com
+2026-07-20 17:53:54 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:53:54 [info]: User logged in: jesttest@example.com
+2026-07-20 17:53:55 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:53:56 [info]: New user registered: doc@example.com
+2026-07-20 17:53:56 [info]: [Emergency Profile] Updated profile for user 6a5e135b589664fffc5daa04
+2026-07-20 17:53:56 [info]: [Emergency QR Scan] First responder scanned QR token: 581476ab-13f7-45ab-9713-e48333f25af2
+2026-07-20 17:54:22 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:54:22 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:54:22 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:54:22 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:54:22 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:54:26 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:54:26 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:54:26 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:54:26 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:54:26 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:54:31 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:54:31 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:54:31 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:54:34 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:54:34 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:54:34 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:54:34 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:54:34 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:54:38 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:54:38 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:54:38 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:54:38 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:54:38 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:54:42 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:54:42 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:54:42 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:54:42 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:54:42 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:54:45 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:54:45 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:54:45 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:54:45 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:54:45 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:54:50 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:54:50 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:54:50 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:55:12 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:55:12 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:55:12 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:55:12 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:55:12 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:55:16 [info]: New user registered: graph@example.com
+2026-07-20 17:55:16 [error]: Activity log failed: Operation interrupted because client was closed
+2026-07-20 17:55:17 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:55:17 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:55:17 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:55:17 [info]: New user registered: timeline@example.com
+2026-07-20 17:55:17 [info]: [Digital Life History] User created custom milestone: Class 10 Result (2018)
+2026-07-20 17:55:18 [info]: New user registered: jesttest@example.com
+2026-07-20 17:55:18 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:55:19 [info]: User logged in: jesttest@example.com
+2026-07-20 17:55:19 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:55:20 [info]: New user registered: doc@example.com
+2026-07-20 17:55:20 [info]: [Emergency Profile] Updated profile for user 6a5e13b05fc95a388eb49d37
+2026-07-20 17:55:20 [info]: [Emergency QR Scan] First responder scanned QR token: 560d82a2-5c2a-4109-8626-878b3e3dd815
+2026-07-20 17:57:46 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:57:46 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:57:46 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:57:46 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:57:46 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:57:52 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:57:52 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:57:52 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:57:52 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:57:52 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:57:57 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:57:57 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:57:57 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 17:58:39 [info]: New user registered: scholar@example.com
+2026-07-20 17:58:39 [info]: [Opportunity Engine] Seeded initial opportunity catalog
+2026-07-20 17:58:39 [error]: Activity log failed: Operation interrupted because client was closed
+2026-07-20 17:58:40 [info]: New user registered: graph@example.com
+2026-07-20 17:58:40 [error]: Activity log failed: Operation interrupted because client was closed
+2026-07-20 17:58:41 [info]: New user registered: jesttest@example.com
+2026-07-20 17:58:41 [warn]: [APP_ERROR] POST /api/v1/auth/register — 409 Email already registered.
+2026-07-20 17:58:42 [info]: User logged in: jesttest@example.com
+2026-07-20 17:58:42 [warn]: [APP_ERROR] POST /api/v1/auth/login — 401 Invalid email or password.
+2026-07-20 17:58:43 [info]: New user registered: timeline@example.com
+2026-07-20 17:58:43 [info]: [Digital Life History] User created custom milestone: Class 10 Result (2018)
+2026-07-20 17:58:44 [info]: New user registered: doc@example.com
+2026-07-20 17:58:44 [info]: [Emergency Profile] Updated profile for user 6a5e147c70d6661c75b86e8d
+2026-07-20 17:58:44 [info]: [Emergency QR Scan] First responder scanned QR token: c6024c1e-5a04-4255-9420-5f1cb8ce88b4
+2026-07-20 17:58:54 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-20 17:58:54 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-20 17:58:54 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-20 17:58:54 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-20 17:58:54 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-20 17:58:59 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-20 17:58:59 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-20 17:58:59 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-20 18:03:03 [info]: New user registered: himanshukumar@gmail.com
+2026-07-20 18:03:11 [info]: [Opportunity Engine] Seeded initial opportunity catalog
+2026-07-21 12:22:09 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-21 12:22:09 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-21 12:22:09 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-21 12:22:09 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-21 12:22:09 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-21 12:22:14 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-21 12:22:14 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-21 12:22:14 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-21 12:23:52 [info]: New user registered: gvyuvuyuyv@gmail.com
+2026-07-21 12:24:30 [info]: [AI Pipeline] Stage 1: OCR for doc 6a5f17a682be3f9ca91dcb22
+2026-07-21 12:24:31 [info]: [AI Pipeline] Stage 2: Classification
+2026-07-21 12:24:32 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:32 [info]: [AI Pipeline] Stage 3: Field extraction
+2026-07-21 12:24:32 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:32 [info]: [AI Pipeline] Stage 4: Summary generation
+2026-07-21 12:24:32 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:32 [info]: [AI Pipeline] Stage 5: Embedding generation
+2026-07-21 12:24:32 [info]: [Universal Profile] Auto-updated profile for user 6a5f177f82be3f9ca91dcb11 from General Document
+2026-07-21 12:24:32 [info]: [Digital Life History] Created milestone for 2 certificate Himanshu kumar saw (2026)
+2026-07-21 12:24:33 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:33 [info]: Notification sent → user=6a5f177f82be3f9ca91dcb11 type=upload: Document ready: 2 certificate Himanshu kumar saw
+2026-07-21 12:24:33 [info]: [AI Pipeline] ✅ Document 6a5f17a682be3f9ca91dcb22 processed successfully as: General Document
+2026-07-21 12:24:52 [info]: [AI Pipeline] Stage 1: OCR for doc 6a5f17bc82be3f9ca91dcb3f
+2026-07-21 12:24:53 [info]: [AI Pipeline] Stage 2: Classification
+2026-07-21 12:24:53 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:53 [info]: [AI Pipeline] Stage 3: Field extraction
+2026-07-21 12:24:54 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:54 [info]: [AI Pipeline] Stage 4: Summary generation
+2026-07-21 12:24:54 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:54 [info]: [AI Pipeline] Stage 5: Embedding generation
+2026-07-21 12:24:54 [info]: [Universal Profile] Auto-updated profile for user 6a5f177f82be3f9ca91dcb11 from Passport
+2026-07-21 12:24:54 [info]: [Digital Life History] Created milestone for MEMORApdf (2026)
+2026-07-21 12:24:54 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:24:54 [info]: [Knowledge Graph] Connected doc 6a5f17bc82be3f9ca91dcb3f to entity: Purchase
+Instead of rememberin
+2026-07-21 12:24:54 [info]: [Knowledge Graph] Connected doc 6a5f17bc82be3f9ca91dcb3f to entity: Health & Life Insurance Policy
+2026-07-21 12:24:54 [info]: [Knowledge Graph] Connected doc 6a5f17bc82be3f9ca91dcb3f to entity: s
+2026-07-21 12:24:54 [info]: Notification sent → user=6a5f177f82be3f9ca91dcb11 type=upload: Document ready: MEMORApdf
+2026-07-21 12:24:54 [info]: [AI Pipeline] ✅ Document 6a5f17bc82be3f9ca91dcb3f processed successfully as: Passport
+2026-07-21 12:25:19 [info]: [AI Pipeline] Stage 1: OCR for doc 6a5f17d782be3f9ca91dcb74
+2026-07-21 12:25:19 [info]: [AI Pipeline] Stage 2: Classification
+2026-07-21 12:25:19 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:25:19 [info]: [AI Pipeline] Stage 3: Field extraction
+2026-07-21 12:25:20 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:25:20 [info]: [AI Pipeline] Stage 4: Summary generation
+2026-07-21 12:25:20 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:25:20 [info]: [AI Pipeline] Stage 5: Embedding generation
+2026-07-21 12:25:20 [info]: [Universal Profile] Auto-updated profile for user 6a5f177f82be3f9ca91dcb11 from Passport
+2026-07-21 12:25:20 [info]: [Digital Life History] Created milestone for MEMORApdf (2026)
+2026-07-21 12:25:20 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:25:20 [info]: [Knowledge Graph] Connected doc 6a5f17d782be3f9ca91dcb74 to entity: Purchase
+Instead of rememberin
+2026-07-21 12:25:20 [info]: [Knowledge Graph] Connected doc 6a5f17d782be3f9ca91dcb74 to entity: Health & Life Insurance Policy
+2026-07-21 12:25:20 [info]: [Knowledge Graph] Connected doc 6a5f17d782be3f9ca91dcb74 to entity: s
+2026-07-21 12:25:20 [info]: Notification sent → user=6a5f177f82be3f9ca91dcb11 type=upload: Document ready: MEMORApdf
+2026-07-21 12:25:20 [info]: [AI Pipeline] ✅ Document 6a5f17d782be3f9ca91dcb74 processed successfully as: Passport
+2026-07-21 12:25:35 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:25:49 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:25:57 [warn]: [AI Provider Error] google/gemini-2.5-flash on https://openrouter.ai/api/v1/chat/completions (402): {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 16000. To increase, visit https://openrouter.ai/settings/credits and
+2026-07-21 12:27:00 [info]: [Opportunity Engine] Seeded initial opportunity catalog
+2026-07-21 15:14:02 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-21 15:14:02 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-21 15:14:02 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-21 15:14:02 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-21 15:14:02 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-21 15:14:07 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-21 15:14:07 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-21 15:14:07 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
