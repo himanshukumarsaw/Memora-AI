@@ -16,7 +16,7 @@ const ProtectedRoute = () => {
         <div style={{ textAlign: 'center' }}>
           <div style={{ fontSize: 48, marginBottom: 16 }}>🧠</div>
           <div className="spinner" style={{ margin: '0 auto 16px' }}></div>
-          <p style={{ color: 'var(--text-muted)', fontSize: 14 }}>Loading Memora AI...</p>
+          <p style={{ color: 'var(--text-muted)', fontSize: 14 }}>Loading AutoFill AI...</p>
         </div>
       </div>
     );

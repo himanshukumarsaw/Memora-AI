@@ -20,6 +20,7 @@ const callChatAPI = async (endpoint, apiKey, model, prompt, headers = {}) => {
         model,
         messages: [{ role: 'user', content: prompt }],
         temperature: 0.2,
+        max_tokens: 1500,
       }),
     });
 
@@ -39,7 +40,7 @@ const callChatAPI = async (endpoint, apiKey, model, prompt, headers = {}) => {
 
 /**
  * Universal LLM Execution Engine — Priority Chain:
- * 1. OpenRouter (Multi-model: Gemini 2.5, Llama 3, Claude 3.5)
+ * 1. OpenRouter (Multi-model: Gemini 2.5 Flash / Llama 3.3 70B)
  * 2. Groq (Ultra-fast Llama 3.3 70B)
  * 3. OpenAI (GPT-4o-mini)
  * 4. Anthropic (Claude 3.5 Haiku)
@@ -50,7 +51,7 @@ const executeLLM = async (prompt, systemInstruction = '') => {
 
   // 1. Try OpenRouter
   if (process.env.OPENROUTER_API_KEY && process.env.OPENROUTER_API_KEY !== 'your_openrouter_api_key_here') {
-    const res = await callChatAPI(
+    let res = await callChatAPI(
       'https://openrouter.ai/api/v1/chat/completions',
       process.env.OPENROUTER_API_KEY,
       'google/gemini-2.5-flash',
@@ -58,6 +59,15 @@ const executeLLM = async (prompt, systemInstruction = '') => {
       { 'HTTP-Referer': 'http://localhost:3000', 'X-Title': 'Memora AI' }
     );
     if (res) return { text: res, provider: 'OpenRouter (Gemini 2.5 Flash)' };
+
+    res = await callChatAPI(
+      'https://openrouter.ai/api/v1/chat/completions',
+      process.env.OPENROUTER_API_KEY,
+      'meta-llama/llama-3.3-70b-instruct',
+      fullPrompt,
+      { 'HTTP-Referer': 'http://localhost:3000', 'X-Title': 'Memora AI' }
+    );
+    if (res) return { text: res, provider: 'OpenRouter (Llama 3.3 70B)' };
   }
 
   // 2. Try Groq (Super-fast LLM)

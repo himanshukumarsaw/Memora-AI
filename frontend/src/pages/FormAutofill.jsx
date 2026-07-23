@@ -54,31 +54,66 @@ const FormAutofill = () => {
       </div>
 
       {!result ? (
-        <div className="card" style={{ padding: 40, maxWidth: 640, margin: '0 auto' }}>
-          <div
-            className={`dropzone ${file ? 'has-file' : ''}`}
-            onClick={() => inputRef.current?.click()}
-            style={{ marginBottom: 20 }}
-          >
-            {file ? (
-              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 8 }}>
-                <CheckCircle size={40} color="var(--success)" />
-                <p style={{ fontWeight: 600, fontSize: 14 }}>{file.name}</p>
-                <p style={{ fontSize: 12, color: 'var(--text-muted)' }}>Click or drop to replace</p>
-              </div>
-            ) : (
-              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 10 }}>
-                <Upload size={40} color="var(--primary)" />
-                <p style={{ fontWeight: 600, fontSize: 15 }}>Upload Application Form</p>
-                <p style={{ fontSize: 12, color: 'var(--text-muted)' }}>Supports PDF, JPG, PNG forms up to 20MB</p>
-              </div>
-            )}
-            <input ref={inputRef} type="file" accept=".pdf,.jpg,.png" style={{ display: 'none' }} onChange={e => setFile(e.target.files[0])} />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 24, maxWidth: 640, margin: '0 auto' }}>
+          <div className="card" style={{ padding: 40 }}>
+            <div
+              className={`dropzone ${file ? 'has-file' : ''}`}
+              onClick={() => inputRef.current?.click()}
+              style={{ marginBottom: 20 }}
+            >
+              {file ? (
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 8 }}>
+                  <CheckCircle size={40} color="var(--success)" />
+                  <p style={{ fontWeight: 600, fontSize: 14 }}>{file.name}</p>
+                  <p style={{ fontSize: 12, color: 'var(--text-muted)' }}>Click or drop to replace</p>
+                </div>
+              ) : (
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 10 }}>
+                  <Upload size={40} color="var(--primary)" />
+                  <p style={{ fontWeight: 600, fontSize: 15 }}>Upload Application Form</p>
+                  <p style={{ fontSize: 12, color: 'var(--text-muted)' }}>Supports PDF, JPG, PNG forms up to 20MB</p>
+                </div>
+              )}
+              <input ref={inputRef} type="file" accept=".pdf,.jpg,.png" style={{ display: 'none' }} onChange={e => setFile(e.target.files[0])} />
+            </div>
+
+            <button className="btn btn-primary" style={{ width: '100%', justifyContent: 'center' }} onClick={handleAnalyze} disabled={!file || loading}>
+              {loading ? <div className="spinner" style={{ borderTopColor: 'white' }} /> : 'Analyze & Auto-Fill'}
+            </button>
           </div>
 
-          <button className="btn btn-primary" style={{ width: '100%', justifyContent: 'center' }} onClick={handleAnalyze} disabled={!file || loading}>
-            {loading ? <div className="spinner" style={{ borderTopColor: 'white' }} /> : 'Analyze & Auto-Fill'}
-          </button>
+          <div className="card" style={{ padding: 24, border: '1px solid rgba(37,99,235,0.2)' }}>
+            <h3 style={{ fontSize: 16, fontWeight: 700, display: 'flex', alignItems: 'center', gap: 8, color: '#38BDF8', marginBottom: 12 }}>
+              <Sparkles size={16} /> Chrome Extension Setup (For Live Autofill)
+            </h3>
+            <p style={{ fontSize: 13, color: 'var(--text-muted)', lineHeight: 1.6, marginBottom: 12 }}>
+              AutoFill AI includes a browser extension that reads your profile data and automatically fills online forms on any website (e.g. shipping details, college portals, or registry forms).
+            </p>
+            <div style={{ fontSize: 13, display: 'flex', flexDirection: 'column', gap: 8 }}>
+              <div style={{ display: 'flex', gap: 8 }}>
+                <span style={{ fontWeight: 700, color: 'var(--primary)' }}>Step 1:</span>
+                <span>Open Google Chrome and navigate to <code>chrome://extensions/</code></span>
+              </div>
+              <div style={{ display: 'flex', gap: 8 }}>
+                <span style={{ fontWeight: 700, color: 'var(--primary)' }}>Step 2:</span>
+                <span>Enable <strong>Developer Mode</strong> (toggle in the top-right corner)</span>
+              </div>
+              <div style={{ display: 'flex', gap: 8 }}>
+                <span style={{ fontWeight: 700, color: 'var(--primary)' }}>Step 3:</span>
+                <span>Click <strong>Load unpacked</strong> (button in the top-left corner)</span>
+              </div>
+              <div style={{ display: 'flex', gap: 8 }}>
+                <span style={{ fontWeight: 700, color: 'var(--primary)' }}>Step 4:</span>
+                <span>Select the <code>extension</code> folder in the project root directory</span>
+              </div>
+            </div>
+            <div style={{ marginTop: 16, padding: '10px 14px', background: 'var(--info-dim)', borderRadius: 8, display: 'flex', gap: 8, alignItems: 'flex-start' }}>
+              <AlertCircle size={16} color="var(--info)" style={{ flexShrink: 0, marginTop: 2 }} />
+              <p style={{ fontSize: 12, color: 'var(--text-muted)', margin: 0 }}>
+                <strong>Tip:</strong> Once loaded, click the extension icon on any page containing forms to watch it match labels and fill inputs in under 1 second!
+              </p>
+            </div>
+          </div>
         </div>
       ) : (
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="card" style={{ padding: 32 }}>

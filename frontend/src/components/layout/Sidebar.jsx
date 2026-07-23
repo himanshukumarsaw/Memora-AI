@@ -61,8 +61,8 @@ const Sidebar = () => {
             <Brain size={20} color="white" />
           </div>
           <div>
-            <div style={{ fontWeight: 800, fontSize: 16, color: 'var(--text)', letterSpacing: '-0.3px' }}>Memora AI</div>
-            <div style={{ fontSize: 11, color: 'var(--text-muted)' }}>Digital Memory</div>
+            <div style={{ fontWeight: 800, fontSize: 16, color: 'var(--text)', letterSpacing: '-0.3px' }}>AutoFill AI</div>
+            <div style={{ fontSize: 11, color: 'var(--text-muted)' }}>Form Autofill Engine</div>
           </div>
         </div>
       </div>

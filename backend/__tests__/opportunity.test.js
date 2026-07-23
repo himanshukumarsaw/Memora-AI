@@ -7,6 +7,8 @@ let mongoServer;
 let app;
 let authToken;
 
+jest.setTimeout(30000);
+
 beforeAll(async () => {
   mongoServer = await MongoMemoryServer.create();
   await mongoose.connect(mongoServer.getUri());

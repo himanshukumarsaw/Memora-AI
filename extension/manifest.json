@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "AutoFill AI - Document Autofill Extension",
+  "version": "1.0.0",
+  "description": "Automatically fill forms on any website using information extracted from your documents via AutoFill AI.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
