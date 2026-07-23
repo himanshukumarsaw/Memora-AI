@@ -835,3 +835,44 @@ Instead of rememberin
 2026-07-21 16:58:05 [info]: New user registered: timeline@example.com
 2026-07-21 16:58:05 [info]: [Digital Life History] User created custom milestone: Class 10 Result (2018)
 2026-07-21 16:58:06 [info]: New user registered: graph@example.com
+2026-07-22 14:18:33 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-22 14:18:33 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-22 14:18:33 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-22 14:18:33 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-22 14:18:33 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-22 14:18:38 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-22 14:18:38 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-22 14:18:38 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-22 14:21:36 [info]: New user registered: himanshukrsaw@gmail.com
+2026-07-22 14:22:55 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-22 14:22:55 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-22 14:22:55 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-22 14:22:55 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-22 14:22:55 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-22 14:23:00 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-22 14:23:00 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-22 14:23:00 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-22 16:26:48 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-22 16:26:48 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-22 16:26:48 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-22 16:26:48 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-22 16:26:48 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-22 16:26:53 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-22 16:26:53 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-22 16:26:53 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.
+2026-07-23 14:51:44 [info]: [ReminderJob] Scheduled: daily at 09:00 IST
+2026-07-23 14:51:44 [info]: [ReminderJob] Running initial check immediately (dev mode)…
+2026-07-23 14:51:44 [info]: 
+🧠  Memora AI Backend    → http://localhost:5000
+2026-07-23 14:51:44 [info]: 📁  Uploads directory   → http://localhost:5000/uploads
+2026-07-23 14:51:44 [info]: ✅  Health check        → http://localhost:5000/health
+
+2026-07-23 14:51:49 [info]: [ReminderJob] Starting daily expiry check…
+2026-07-23 14:51:49 [info]: [ReminderJob] Found 0 documents expiring within 30 days
+2026-07-23 14:51:49 [info]: [ReminderJob] Finished. Processed 0 expiring docs, 0 today reminders.

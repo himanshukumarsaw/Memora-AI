@@ -93,7 +93,7 @@ const AIChat = () => {
             <Brain size={20} color="white" />
           </div>
           <div>
-            <h3 style={{ fontWeight: 700 }}>Memora AI</h3>
+            <h3 style={{ fontWeight: 700 }}>AutoFill AI</h3>
             <p style={{ fontSize: 12, color: 'var(--success)' }}>● Online · Ready to help</p>
           </div>
         </div>

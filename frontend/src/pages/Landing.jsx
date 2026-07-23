@@ -153,7 +153,7 @@ const Landing = () => {
           <div style={{ width: 36, height: 36, borderRadius: 10, background: 'linear-gradient(135deg, #2563EB, #1D4ED8)', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 4px 12px rgba(37,99,235,0.4)' }}>
             <Brain size={20} color="white" />
           </div>
-          <span style={{ fontWeight: 800, fontSize: 18, color: 'var(--text)', letterSpacing: '-0.3px' }}>Memora AI</span>
+          <span style={{ fontWeight: 800, fontSize: 18, color: 'var(--text)', letterSpacing: '-0.3px' }}>AutoFill AI</span>
         </div>
 
         {/* Nav Links */}
@@ -197,7 +197,7 @@ const Landing = () => {
             {/* Sub */}
             <p className="text-body-lg" style={{ color: 'var(--text-muted)', maxWidth: 460, lineHeight: 1.7, marginBottom: 40 }}>
               Upload once. Never search again.<br />
-              Memora AI understands, organizes, and answers questions about every document you own.
+              AutoFill AI understands, organizes, and extracts fields from every document you own.
             </p>
 
             {/* CTA Buttons */}
@@ -243,7 +243,7 @@ const Landing = () => {
           style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 'var(--radius-card)', padding: 24 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
             <div style={{ width: 8, height: 8, borderRadius: '50%', background: 'var(--success)', animation: 'pulse 2s infinite' }} />
-            <span style={{ fontSize: 12, color: 'var(--text-muted)', fontWeight: 500 }}>Ask Memora AI anything</span>
+            <span style={{ fontSize: 12, color: 'var(--text-muted)', fontWeight: 500 }}>Ask AutoFill AI anything</span>
           </div>
           {queryExamples.map((q, i) => (
             <motion.div key={q}
@@ -413,7 +413,7 @@ const Landing = () => {
       <footer style={{ borderTop: '1px solid var(--border)', padding: '28px 64px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 16, background: 'var(--surface)' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <Brain size={18} color="var(--primary)" />
-          <span style={{ fontWeight: 800, color: 'var(--text)', fontSize: 15 }}>Memora AI</span>
+          <span style={{ fontWeight: 800, color: 'var(--text)', fontSize: 15 }}>AutoFill AI</span>
         </div>
         <div style={{ display: 'flex', gap: 24 }}>
           {['About', 'Privacy', 'Terms', 'Contact'].map(l => (
@@ -424,7 +424,7 @@ const Landing = () => {
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
           <Lock size={12} color="var(--success)" />
-          <span style={{ fontSize: 13, color: 'var(--text-disabled)' }}>© 2024 Memora AI · Your time is worth more than a search bar.</span>
+          <span style={{ fontSize: 13, color: 'var(--text-disabled)' }}>© 2026 AutoFill AI · Upload once. Fill everywhere.</span>
         </div>
       </footer>
     </div>

@@ -39,7 +39,7 @@ const Register = () => {
               <div style={{ width: 40, height: 40, borderRadius: 12, background: 'linear-gradient(135deg, #7C6FF7, #5A4FCF)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
                 <Brain size={22} color="white" />
               </div>
-              <span style={{ fontWeight: 700, fontSize: 22, color: 'var(--text)' }}>Memora AI</span>
+              <span style={{ fontWeight: 700, fontSize: 22, color: 'var(--text)' }}>AutoFill AI</span>
             </div>
           </Link>
           <h1 style={{ fontSize: 28, fontWeight: 700, marginTop: 24, marginBottom: 8 }}>Create your vault</h1>
